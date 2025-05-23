@@ -1,3 +1,4 @@
+# tests/test_app.py
 from app import app
 
 def test_home_status_code():
